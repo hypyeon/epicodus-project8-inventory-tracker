@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/epicodus-project8-inventory-tracker/static/css/main.6e91d64b.css",
+    "main.js": "/epicodus-project8-inventory-tracker/static/js/main.c124d549.js",
+    "static/js/787.30b9703f.chunk.js": "/epicodus-project8-inventory-tracker/static/js/787.30b9703f.chunk.js",
+    "index.html": "/epicodus-project8-inventory-tracker/index.html",
+    "main.6e91d64b.css.map": "/epicodus-project8-inventory-tracker/static/css/main.6e91d64b.css.map",
+    "main.c124d549.js.map": "/epicodus-project8-inventory-tracker/static/js/main.c124d549.js.map",
+    "787.30b9703f.chunk.js.map": "/epicodus-project8-inventory-tracker/static/js/787.30b9703f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e91d64b.css",
+    "static/js/main.c124d549.js"
+  ]
+}
